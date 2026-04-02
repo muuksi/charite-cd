@@ -139,7 +139,7 @@ charite-cd/
 ## Autor
 
 **Dr. Maximilian Hinse**  
-Postdoctoral Researcher · Institut für Epidemiologie und Evidenzbasierte Medizin  
+Postdoctoral Researcher · Institut für Sozialmedizin, Epidemiologie und Gesundheitsökonomie 
 Charité – Universitätsmedizin Berlin
 
 ---
